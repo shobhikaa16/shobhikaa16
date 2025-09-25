@@ -10,7 +10,7 @@
 
 </br> 
 
-![](https://komarev.com/ghpvc/?username=Shobhika-123or=brightgreen)
+![](https://komarev.com/ghpvc/?username=Shobhika123or=brightgreen)
 
 ### Languages and Tools:
 <p align="center"> 
