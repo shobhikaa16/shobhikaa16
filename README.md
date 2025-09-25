@@ -22,11 +22,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="70" height="70"/>
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/rangav/thunder-client-support/main/images/thunder-icon.png" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70" height="70"/>
+
 </p>
 
+</br> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shobhikaa16&layout=compact&theme=radical)
 
+ </br>
 
 ✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨  
 
