@@ -1,4 +1,21 @@
-# Hi, I'm Shobhika 👋  
+# Hi there, I'm Shobhika 👋
+✨ You only fail when you stop trying ✨
+
+![](https://komarev.com/ghpvc/?username=YourUserName&color=brightgreen)
+
+### Languages and Tools:
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+</p>
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=shobhikaa16&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shobhikaa16&layout=compact&theme=radical)
+
 
 🚀 Passionate **Software Engineer in the making** | 💡 Building impactful web apps | 📚 Lifelong learner  
 
