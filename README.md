@@ -10,7 +10,7 @@
 
 </br> 
 
-![](https://komarev.com/ghpvc/?username=Shobhika123or=brightgreen)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
 
 ### Languages and Tools:
 <p align="center"> 
