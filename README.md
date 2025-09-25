@@ -24,7 +24,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="70" height="70"/>
 </p>
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=shobhikaa16&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shobhikaa16&layout=compact&theme=radical)
 
